@@ -1,0 +1,20 @@
+[
+  {
+    "fName": "test",
+    "lName": "user",
+    "gender": "male",
+    "email": "user456456@test.com"
+  },
+  {
+    "fName": "test",
+    "lName": "user2",
+    "gender": "female",
+    "email": "user254165984@test.com"
+  },
+  {
+    "fName": "test",
+    "lName": "user3",
+    "gender": "male",
+    "email": "user35156165161@test.com"
+  }
+]
