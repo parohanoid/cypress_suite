@@ -45,7 +45,7 @@ describe.skip('Register and Login Spec', () => {
       });
     });
 
-    it('Test Login with fixtures', () => {
+    it('Test Login with faker', () => {
       users.forEach(user => {
         cy.login(user.email, Cypress.env('password'));
       });
